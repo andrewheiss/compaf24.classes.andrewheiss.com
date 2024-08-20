@@ -11,9 +11,15 @@ date: "2024-08-29"
 
 - {{< fa file-pdf >}}&ensp;The "How to Read" section in [@Green:2021]
 
-- {{< fa file-pdf >}}&ensp;[@Powner:2016]
+- {{< fa file-pdf >}}&ensp;[@HicksHumphriesSlater:2024]
+
+- {{< fa external-link-square-alt >}}&ensp;[@Rosenzweig:2023]
 
 - {{< fa file-pdf >}}&ensp;[@MeierHill:2005]
+
+### Optional, but useful
+
+- {{< fa file-pdf >}}&ensp;[@Powner:2016]
 
 ::: {.content-hidden}
 
