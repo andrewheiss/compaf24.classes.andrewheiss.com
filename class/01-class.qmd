@@ -21,17 +21,13 @@ date: "2024-08-29"
 
 - {{< fa file-pdf >}}&ensp;[@Powner:2016]
 
-::: {.content-hidden}
 
-## Plan for the day
+## Materials for today
 
-- **Who are you all and why are you here?**
-
-- **The pains and wonders of bureaucracies + building our Global Bureaucracy**^[Good luck spelling this word correctly over and over and over this semester!] **Toolkit^™^**
-  - [Jan Banning's "Bureaucratics"](https://www.janbanning.com/gallery/bureaucratics/)
+- [**Slides**](/slides/2024-08-29.html)
 
 - **How the class works**
-  - [Mini presentation signup sheet](https://docs.google.com/spreadsheets/d/1KZZ7Ei85cb97IjnTVwiYsUiSiOSgtbc_pHVuRxPWgz4/edit?usp=sharing)
+  - [Mini presentation signup sheet](https://docs.google.com/spreadsheets/d/1QDpvQp8iDq0Fgee_1EJfXYsvuC0-Cu6bReUIH3OR4l8/)
 
 - **Things they don’t teach you in grad school**
 
@@ -47,15 +43,13 @@ date: "2024-08-29"
       - [OneNote](https://www.onenote.com/?public=1)
       - [Evernote](https://evernote.com/)
     - Things we'll read together:
-      - {{< fa file-pdf >}}&ensp;[@Wilson:1887]
       - {{< fa file-pdf >}}&ensp;[@MilwardJensenRoberts:2016]
-      - {{< fa file-pdf >}}&ensp;[@Roberts:2018]
-
-  - [**Break!**]{.text-success}
+        - Specifically the essays by (1) Brint Milward, (2) Veronica Junjan & René Torenvlied, and (3) Arjen Boin
+      - {{< fa file-pdf >}}&ensp;[@HolmbergRothsteinNasiritousi:2009]
 
   - **How to summarize, synthesize, and write about articles**
 
-    - [Zotero in Word](https://www.zotero.org/support/word_processor_plugin_usage) + [Zotero in Google Docs](https://www.zotero.org/support/google_docs) + Zotero [in RStudio](https://posit.co/blog/rstudio-1-4-preview-citations/) or [with Markdown in general](https://www.andrewheiss.com/blog/2023/01/08/bibdesk-to-zotero-pandoc/#example-workflow-with-quarto-r-markdown-pandoc)
+    - [Zotero in Word](https://www.zotero.org/support/word_processor_plugin_usage) + [Zotero in Google Docs](https://www.zotero.org/support/google_docs) (+ Zotero [in RStudio](https://posit.co/blog/rstudio-1-4-preview-citations/) or [with Markdown in general](https://www.andrewheiss.com/blog/2023/01/08/bibdesk-to-zotero-pandoc/#example-workflow-with-quarto-r-markdown-pandoc))
     - [Summary vs. synthesis](https://www.youtube.com/watch?v=R_rnkM7jvlY) + [The Synthesis Test](https://www.youtube.com/watch?v=R_rnkM7jvlY&t=241s)
 
   - **How to discuss an article in a seminar**
@@ -67,5 +61,3 @@ date: "2024-08-29"
   	- How does it connect to the broader course themes?
   	- How does it connect to current events?
   	- What does it add to our Global Bureaucracy Toolkit^™^?
-
-:::
