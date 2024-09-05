@@ -5,12 +5,10 @@ date: "2024-10-24"
 
 ## Readings
 
-- Readings on participatory grantmaking TBD
+- {{< fa file-pdf >}}&ensp;[@Thoma:2024]
 
-- {{< fa file-pdf >}}&ensp;[@MeierMelton:2014]
+- {{< fa file-pdf >}}&ensp;[@Sahn:2024]
 
 - {{< fa file-pdf >}}&ensp;[@RiccucciRyzin:2017]
 
-- {{< fa file-pdf >}}&ensp;[@StensotaWangnerudSvensson:2015]
-
-- {{< fa file-pdf >}}&ensp;[@SuzukiAvellaneda:2018]
+- {{< fa file-pdf >}}&ensp;[@Gibson:2017]
