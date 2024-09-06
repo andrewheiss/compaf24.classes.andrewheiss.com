@@ -16,25 +16,9 @@ date: "2024-09-05"
 - {{< fa file-pdf >}}&ensp;[@HolmbergRothsteinNasiritousi:2009]
 
 
-::: {.content-hidden}
-
 ## Plan for the day
 
-- **More tips and tricks for reading, note-taking, and writing**
-
-  - [Zotero](https://www.zotero.org/) + [Zotero Connector](https://www.zotero.org/download/connectors) + [GSU's Zotero guide](https://research.library.gsu.edu/zotero)
-  - [Class Zotero group library](https://www.zotero.org/groups/compaf24)
-
-  - Taking and storing notes:
-    - [Zotero](https://www.zotero.org/)
-    - [Obsidian](https://obsidian.md/)
-    - [Notion](https://www.notion.so/)
-    - [OneNote](https://www.onenote.com/?public=1)
-    - [Evernote](https://evernote.com/)
-    
-  - [Zotero in Word](https://www.zotero.org/support/word_processor_plugin_usage) + [Zotero in Google Docs](https://www.zotero.org/support/google_docs) + Zotero [in RStudio](https://posit.co/blog/rstudio-1-4-preview-citations/) or [with Markdown in general](https://www.andrewheiss.com/blog/2023/01/08/bibdesk-to-zotero-pandoc/#example-workflow-with-quarto-r-markdown-pandoc)
-  
-  - [Summary vs. synthesis](https://www.youtube.com/watch?v=R_rnkM7jvlY) + [The Synthesis Test](https://www.youtube.com/watch?v=R_rnkM7jvlY&t=241s)
+- [Mini presentation signup sheet](https://docs.google.com/spreadsheets/d/1QDpvQp8iDq0Fgee_1EJfXYsvuC0-Cu6bReUIH3OR4l8/)
 
 - **How to discuss an article in a seminar**
 
@@ -49,8 +33,7 @@ date: "2024-09-05"
 
 - **Why does bureaucracy matter and is it going anywhere?**
 
-  - [@MeierHill:2005]
-  - [@Olsen:2005]
+  - Together: Sections 3.1, 3.2, and 3.3 in [@MeierHill:2005]
 
 - **Defining and measuring governance**
 
@@ -58,5 +41,3 @@ date: "2024-09-05"
   - [@EvansRauch:1999]
   - [@Fukuyama:2013]
   - [@HolmbergRothsteinNasiritousi:2009]
-
-:::
