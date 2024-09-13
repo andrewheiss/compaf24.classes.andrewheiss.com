@@ -1711,6 +1711,27 @@
       ],
       "Hash": "4c8415e0ec1e29f3f4f6fc108bef0144"
     },
+    "rqog": {
+      "Package": "rqog",
+      "Version": "0.4.2023",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteRepo": "rqog",
+      "RemoteUsername": "ropengov",
+      "RemotePkgRef": "ropengov/rqog",
+      "RemoteRef": "HEAD",
+      "RemoteSha": "5412c245d6e7cbe9b65e10b19eab30f22c30d390",
+      "Requirements": [
+        "R",
+        "ggplot2",
+        "glue",
+        "haven",
+        "readxl",
+        "tidyr"
+      ],
+      "Hash": "1a2c04c0fa3b0c0409a8246381ea99dd"
+    },
     "rstudioapi": {
       "Package": "rstudioapi",
       "Version": "0.16.0",
