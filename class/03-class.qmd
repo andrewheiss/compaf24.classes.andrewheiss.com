@@ -12,8 +12,6 @@ date: "2024-09-12"
 - {{< fa file-pdf >}}&ensp;[@JindraVaz:2019]
 
 
-::: {.content-hidden}
-
 ## Plan for the day
 
 - **How to discuss an article in a seminar**
@@ -73,8 +71,8 @@ qog_basic <- read_qog(which_data = "basic", data_type = "time-series")
 ```
 
 ```{{r}}
-afg_alb <- qog_basic %>% 
-  filter(cname %in% c("Afghanistan", "Albania")) %>% 
+afg_alb <- qog_basic |> 
+  filter(cname %in% c("Afghanistan", "Albania")) |> 
   filter(year >= 2007, year <= 2020)
 
 ggplot(data = afg_alb,
@@ -86,10 +84,10 @@ ggplot(data = afg_alb,
 # Varieties of Democracy (V-Dem) project
 
 ```{{r}}
-vdem_small <- vdem %>%
+vdem_small <- vdem |>
   select(country_name, country_text_id, year, region = e_regionpol_6C,
-         public_sector_corruption = v2x_pubcorr, impartial_pa = v2clrspct) %>%
-  filter(country_name %in% c("Afghanistan", "Albania")) %>%
+         public_sector_corruption = v2x_pubcorr, impartial_pa = v2clrspct) |>
+  filter(country_name %in% c("Afghanistan", "Albania")) |>
   filter(year >= 2007, year <= 2020)
 
 ggplot(data = vdem_small,
@@ -110,7 +108,7 @@ wdi_raw <- WDI(
   extra = TRUE
 )
 
-wdi_small <- wdi_raw %>% 
+wdi_small <- wdi_raw |> 
   filter(country %in% c("Afghanistan", "Albania"))
 
 ggplot(data = wdi_small,
@@ -118,5 +116,3 @@ ggplot(data = wdi_small,
   geom_line()
 ```
 ````
-
-:::
