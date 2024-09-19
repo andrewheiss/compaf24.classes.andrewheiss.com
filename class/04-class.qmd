@@ -18,8 +18,6 @@ date: "2024-09-19"
 - {{< fa file-pdf >}}&ensp;Chapter 2 in [@Ostrom:1990]
 
 
-::: {.content-hidden}
-
 ## Article discussion reminder
 
 **How to discuss an article in a seminar**
@@ -36,10 +34,6 @@ date: "2024-09-19"
 
 ## Plan for the day
 
-- **Mini-presentation on governance**
-
-- **Mini-presentation and discussion on institutions**
-
 - **Overview of different conceptions of institutions**
 
 - **Institutions and comparative public administration**
@@ -48,5 +42,3 @@ date: "2024-09-19"
   - [@AcemogluRobinson:2012]
   - [@DiMaggioPowell:1983]
   - [@Alston:2017]
-
-:::
