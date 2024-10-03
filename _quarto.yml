@@ -3,6 +3,7 @@ project:
   render:
     - "*.qmd"
     - "!slides/"
+    - "!files/examples/governance-regression/governance-regression.qmd"
   resources:
     - "files/"
     - "slides/"
