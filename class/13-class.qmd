@@ -5,7 +5,7 @@ date: "2024-11-21"
 
 ## Readings
 
-- {{< fa file-pdf >}}&ensp;[@Nizar:2018]
+- {{< fa file-pdf >}}&ensp;[@Nisar:2018]
 
 - {{< fa file-pdf >}}&ensp;[@Farazmand:1999]
 
