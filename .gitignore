@@ -9,5 +9,6 @@
 
 # caching stuff
 **/*_cache/*
+/temp
 
 /.luarc.json

@@ -14,8 +14,6 @@ date: "2024-10-03"
 - {{< fa file-pdf >}}&ensp;[@SuzukiHur:2020]
 
 
-::: {.content-hidden}
-
 ## Article discussion reminder
 
 **How to discuss an article in a seminar**
@@ -31,6 +29,12 @@ date: "2024-10-03"
 
 
 ## Plan for the day
+
+- **Bureaucratic structures, politicization, and governance outcomes** (from last week's session, since it was canceled because of Hurricane Helene)
+
+  - [@Pardo:2011]
+  - [@DahlstromLapuente:2017]
+  - [@Cornell:2013]
 
 - **Crash course in quantitative methods (i.e. how to draw lines through points)**
 
@@ -49,5 +53,3 @@ date: "2024-10-03"
   - [@ChristensenOpstrup:2018]
   - [@OliverosSchuster:2018]
   - [@SuzukiHur:2020]
-
-:::
