@@ -14,8 +14,6 @@ date: "2024-10-17"
 - {{< fa file-pdf >}}&ensp;[@vanZyl:2014]
 
 
-::: {.content-hidden}
-
 ## Article discussion reminder
 
 **How to discuss an article in a seminar**
@@ -32,8 +30,6 @@ date: "2024-10-17"
 
 ## Plan for the day
 
-- **Theory in real life essay**
-
 - **Civil society across countries**
 
   - [@Bush:2019]
@@ -41,4 +37,4 @@ date: "2024-10-17"
   - [@Themudo:2013]
   - [@vanZyl:2014]
 
-:::
+- **Theory in real life essay**
