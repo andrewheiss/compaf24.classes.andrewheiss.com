@@ -12,3 +12,7 @@ date: "2024-10-24"
 - {{< fa file-pdf >}}&ensp;[@RiccucciRyzin:2017]
 
 - {{< fa file-pdf >}}&ensp;[@Gibson:2017]
+
+## Plan for the day
+
+Discuss this neat stuff.
