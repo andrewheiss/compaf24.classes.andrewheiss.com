@@ -3,6 +3,12 @@ title: "Middle East and North Africa"
 date: "2024-11-21"
 ---
 
+::: {.callout-important}
+# No class!
+
+**NOTE**: We will not be meeting in class for this session. We'll cover these readings in the following session with Asia.
+:::
+
 ## Readings
 
 - {{< fa file-pdf >}}&ensp;[@Nisar:2018]
