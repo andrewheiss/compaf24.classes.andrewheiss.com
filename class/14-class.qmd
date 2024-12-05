@@ -16,27 +16,30 @@ date: "2024-12-05"
 - {{< fa file-pdf >}}&ensp;[@ZhiPearson:2017]
 
 
-::: {.content-hidden}
-
-## Article discussion reminder
-
-**How to discuss an article in a seminar**
-
-- Who wrote the article? What’s their background?
-- General summary of the article
-- Strengths
-- Weaknesses
-- How does it connect to other readings?
-- How does it connect to the broader course themes?
-- How does it connect to current events?
-- What does it add to our Global Bureaucracy Toolkit^™^?
-
-
 ## Plan for the day
 
-- **Mini presentation and group discussion**
+### The Middle East and North Africa
 
-- **Review of past region-specific theories and exploration of how they apply to East Asia**
+- **What even is the "Middle East"?**
+
+- **Orientalism, historical essentialism, and modernization theory**
+
+- **Public administration in the Middle East and North Africa**
+
+  - [@Farazmand:1999]
+  - [@DixonBhuiyanUstuner:2018]
+  - [@SchomakerBauer:2020]
+
+- **Specific countries**
+
+  - [@Nisar:2018]
+  - [@Ali:2018]
+  - Egypt
+  - Jordan
+  - The UAE
+  - Turkey
+
+### Asia
 
 - **Public administration in East Asia**
 
@@ -53,4 +56,6 @@ date: "2024-12-05"
   - [@HouLiuYang:2018]
   - [@ZhiPearson:2017]
 
-:::
+### Final policy brief
+
+- Q&A time!
